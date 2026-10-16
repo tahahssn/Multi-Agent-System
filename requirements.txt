@@ -21,6 +21,9 @@ html5lib>=1.1
 # Environment Variables
 python-dotenv>=1.0.0
 
+# Web application
+streamlit>=1.41.0
+
 # Async Support
 aiohttp>=3.9.0
 
